@@ -4,7 +4,7 @@ with open("README.md", "r", encoding='utf-8') as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="TmpEnv",
+    name="TmpVar",
     version="0.0.1",
     author="Blockhead-yj",
     author_email="136271877@qq.com",
